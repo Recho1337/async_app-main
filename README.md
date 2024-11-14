@@ -1,0 +1,1 @@
+This repository showcases the use of Flask and Gunicorn to build a web application that can handle asynchronous download functions. It is designed to demonstrate how to implement efficient file downloading processes that do not block the server's resources, allowing for smoother user experiences and improved performance.
